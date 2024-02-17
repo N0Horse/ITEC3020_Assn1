@@ -1,3 +1,3 @@
 # ITEC3020 Assignment 1
-## Runze Sun
-## Rong Zhou
+## Runze Sun, 218268532
+
