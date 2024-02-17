@@ -251,3 +251,7 @@ header h2 {
     color: black;
     margin-top: 10px;
 }
+
+.recommend a:hover {
+    text-decoration: underline;
+}
